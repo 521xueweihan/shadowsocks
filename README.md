@@ -1,4 +1,4 @@
-shadowsocks项目，本尊！
+shadowsocks项目，本尊
 ===========
 
 A fast tunnel proxy that helps you bypass firewalls.
